@@ -14,10 +14,11 @@ fun main() {
         //Make list of shapes
         val listOfShapes = mutableListOf<Shape>()
 
-        for (i in 0..10000) {                                               //in future change for line in lines
+        for (i in 0..37000) {                                               //in future change for line in lines
 
             //Checking if line has correct formula
             //(...)
+
 
             //Putting every line into list of shapes
             listOfShapes.add(
